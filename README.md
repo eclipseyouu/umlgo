@@ -365,13 +365,3 @@ python benchmark.py
 (топологическая сортировка — O((V + E) log V) за счёт приоритетной очереди
 для детерминированного порядка). Ожидаемое суммарное время — менее 2 секунд.
 
-## SSH-ключ для GitHub
-
-Актуальный публичный ключ для добавления в GitHub: **Settings → SSH and
-GPG keys → New SSH key**.
-
-```text
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPPZuhG24pIF32f6sZu08AokuUo2mBPvir8KxjIWoJba student@cab-127-stud07
-```
-
-Скопируйте строку целиком, включая `ssh-ed25519` и комментарий в конце.

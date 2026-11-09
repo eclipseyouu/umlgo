@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.coverage
+.coverage_trace/
+history.txt
+bench_activity.json
+sequence-diagram.md
+activity-diagram.md
+sequence-diagram.mmd
+activity-diagram.mmd
